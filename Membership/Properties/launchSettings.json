@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Membership": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Membership",
+      "hotReloadEnabled": false
+    }
+  }
+}

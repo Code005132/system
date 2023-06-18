@@ -1,0 +1,71 @@
+C:\Users\User\Documents\integ system\Membership\bin\Debug\net7.0-windows\Membership.exe
+C:\Users\User\Documents\integ system\Membership\bin\Debug\net7.0-windows\Membership.deps.json
+C:\Users\User\Documents\integ system\Membership\bin\Debug\net7.0-windows\Membership.runtimeconfig.json
+C:\Users\User\Documents\integ system\Membership\bin\Debug\net7.0-windows\Membership.dll
+C:\Users\User\Documents\integ system\Membership\bin\Debug\net7.0-windows\Membership.pdb
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.csproj.AssemblyReference.cache
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.csproj.GenerateResource.cache
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.AssemblyInfoInputs.cache
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.AssemblyInfo.cs
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.dll
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\refint\Membership.dll
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.pdb
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.genruntimeconfig.cache
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\ref\Membership.dll
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.Login.resources
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.Main.resources
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.Properties.Resources.resources
+C:\Users\User\Documents\integ system\Membership\obj\Debug\net7.0-windows\Membership.AddMember.resources
+D:\Membership\bin\Debug\net7.0-windows\Membership.exe
+D:\Membership\bin\Debug\net7.0-windows\Membership.deps.json
+D:\Membership\bin\Debug\net7.0-windows\Membership.runtimeconfig.json
+D:\Membership\bin\Debug\net7.0-windows\Membership.dll
+D:\Membership\bin\Debug\net7.0-windows\Membership.pdb
+D:\Membership\obj\Debug\net7.0-windows\Membership.csproj.AssemblyReference.cache
+D:\Membership\obj\Debug\net7.0-windows\Membership.AddMember.resources
+D:\Membership\obj\Debug\net7.0-windows\Membership.Login.resources
+D:\Membership\obj\Debug\net7.0-windows\Membership.Main.resources
+D:\Membership\obj\Debug\net7.0-windows\Membership.Properties.Resources.resources
+D:\Membership\obj\Debug\net7.0-windows\Membership.csproj.GenerateResource.cache
+D:\Membership\obj\Debug\net7.0-windows\Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Membership\obj\Debug\net7.0-windows\Membership.AssemblyInfoInputs.cache
+D:\Membership\obj\Debug\net7.0-windows\Membership.AssemblyInfo.cs
+D:\Membership\obj\Debug\net7.0-windows\Membership.csproj.CoreCompileInputs.cache
+D:\Membership\obj\Debug\net7.0-windows\Membership.dll
+D:\Membership\obj\Debug\net7.0-windows\refint\Membership.dll
+D:\Membership\obj\Debug\net7.0-windows\Membership.pdb
+D:\Membership\obj\Debug\net7.0-windows\Membership.genruntimeconfig.cache
+D:\Membership\obj\Debug\net7.0-windows\ref\Membership.dll
+D:\Membership\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Membership\obj\Debug\net7.0-windows\Membership.csproj.CopyComplete
+D:\Membership\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Membership\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Membership\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Membership\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Membership\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Membership\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Membership\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Membership\obj\Debug\net7.0-windows\Membership.update.resources
